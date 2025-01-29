@@ -24,4 +24,4 @@ context, we aimed to assess the efficiency of cardiovascular risk
 monitoring among diabetic patients and investigate the consequence of
 reducing its frequency.
 
-Manusript currently submitted for publication.
+The manusript is currently submitted for publication.
